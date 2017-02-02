@@ -7,5 +7,5 @@ $ npm install
 $ mkdir images
 $ node app.js 
 or 
-$ node app.js
+$ node app2.js
 ```
